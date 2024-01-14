@@ -9,8 +9,6 @@ Hello there! I'm Rahul, an Android Developer with a passion for crafting high-qu
 
 ## 💻 Tech Stack
 
-Explore the tools and technologies in my toolkit:
-
 - Android :computer:
 - Kotlin :artificial_satellite:
 - Java 📜
@@ -20,7 +18,7 @@ Explore the tools and technologies in my toolkit:
 - RESTful APIs 🌐
 - Git (Version control) 🔄
 
-## 📚 Currently exploring:
+## 📚 Exploring
 
 - Kotlin Multiplatform (KMP) 🌐
 - Jetpack Compose for Android UI ✨
