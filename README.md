@@ -17,10 +17,6 @@ Hello there! I'm Rahul, an Android Developer with a passion for crafting high-qu
 - RESTful APIs 🌐
 - Git (Version control) 🔄
 
-## :helicopter: Latest Work
-
-Check out my latest work, a [Official Formula 1 App](https://play.google.com/store/apps/details?id=com.softpauer.f1timingapp2014.basic&hl=en&gl=US). I have developed an SDK integrated into this app, enabling users to engage in a fantasy game based on Formula 1 Racing.
-
 ## 📫 Let's Connect
 
 - LinkedIn: [Rahul Ghag](https://www.linkedin.com/in/rahul-ghag/)
